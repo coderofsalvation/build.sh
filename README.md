@@ -1,4 +1,4 @@
-## supafast javascript bundler in ~500 bytes
+## supafast javascript bundler in ~8 lines of shellscript
 
 ```sh
 $ cd yourjsproject

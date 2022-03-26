@@ -2,12 +2,12 @@
 
 ```sh
 $ cd yourjsproject
-$ wget 
+$ wget 'https://github.com/coderofsalvation/build.sh/raw/master/build.sh'
 $ chmod 755 build.sh
 $ ./build.sh
 $ ls -la dist
 index.html
-build.js
+build.js             # profit!
 ```
 
 ## auto-generate documentation

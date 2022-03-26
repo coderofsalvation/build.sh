@@ -45,9 +45,11 @@ Function-comments need to contain markdown like this:
 
 Consider this:
 
-* developers like building simple, tiny pet-projects
-* the chance of somebody reverse engineering your code niche project is overrated 
+* developers in general like building simple, tiny pet-projects
+* developers in general don't like premature optimization 
+* there's http v2 now, javascript proxies, native imports etc
+* the chance of somebody reverse engineering your niche project is overrated 
+* the chance of somebody reverse engineering your opensource project is weird 
 * a big upside of scripting languages is the absence of a buildstep 
 * you probably don't need zillions of npm modules   
-* there's http v2 now, javascript proxies, native imports etc
 * simplicity, keep it simple

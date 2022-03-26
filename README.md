@@ -20,9 +20,6 @@ build.js             # profit!
 
 ## Why?
 
-Consider this: 
-
-* java**script** isa **scripting** language.<br>
-
-> Doesn't make any sense? Try understanding wikipedia's explanation: _"A scripting language .... without the need for the user to have intimate knowledge of the inner workings of the application or to rebuild it after each tweak"_
- 
+Why not? <br>
+Simplicity perhaps?<br>
+There's not much microbundlers out there.

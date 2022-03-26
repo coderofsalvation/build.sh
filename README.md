@@ -22,7 +22,7 @@ build.js             # profit!
 
 Because **sed** and **grep** made me do this.
 
-## Totally unfair comparison
+## Completely unfair comparison
 
 ```bash
 $ npm install webpack

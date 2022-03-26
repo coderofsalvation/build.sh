@@ -20,6 +20,4 @@ build.js             # profit!
 
 ## Why?
 
-Why not? <br>
-Simplicity perhaps?<br>
-There's not much microbundlers out there.
+Because **sed** and **grep** made me do this.

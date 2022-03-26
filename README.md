@@ -21,3 +21,12 @@ build.js             # profit!
 ## Why?
 
 Because **sed** and **grep** made me do this.
+
+## Totally unfair comparison
+
+```bash
+$ npm install webpack
+$ find -type f | xargs cat | wc -l
+394813 lines
+```
+

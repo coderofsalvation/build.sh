@@ -24,5 +24,5 @@ Consider this:
 
 * java*script* a *scripting* language.<br>
 
-> Doesn't make any sense? Then consider wikipedia's explanation: _"A scripting language .... without the need for the user to have intimate knowledge of the inner workings of the application or to rebuild it after each tweak"_
+> Doesn't make any sense? Try understanding wikipedia's explanation: _"A scripting language .... without the need for the user to have intimate knowledge of the inner workings of the application or to rebuild it after each tweak"_
  
